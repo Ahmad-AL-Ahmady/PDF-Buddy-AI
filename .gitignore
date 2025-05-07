@@ -1,0 +1,11 @@
+.venv/ 
+.env
+results/
+uploads/
+*.pdf
+*.txt
+*.csv
+*.json
+*.xlsx
+*.docx
+*.pptx
