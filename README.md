@@ -2,7 +2,7 @@
 
 A modern web application that processes documents (PDF, DOCX, TXT) using advanced AI (Groq LLM via LangChain) to generate multiple-choice questions (MCQs) or comprehensive summaries.
 
-![PDF Buddy AI Dashboard](image.png)
+![PDF Buddy AI Dashboard](assets/dashboard.png)
 _Main dashboard interface of PDF Buddy AI_
 
 ## Table of Contents
@@ -34,7 +34,7 @@ _Main dashboard interface of PDF Buddy AI_
 - Loading animations for document processing
 - Secure file handling
 
-![File Upload Interface](image.png)
+![File Upload Interface](assets/upload.png)
 _User-friendly file upload interface_
 
 ## Getting Started
@@ -105,7 +105,7 @@ python app.py
 
 ### MCQ Generation
 
-![MCQ Generation](image.png)
+![MCQ Generation](assets/mcq.png)
 _Example of generated multiple-choice questions_
 
 - Generate multiple-choice questions from your document
@@ -114,7 +114,7 @@ _Example of generated multiple-choice questions_
 
 ### Document Summarization
 
-![Document Summary](image.png)
+![Document Summary](assets/summary.png)
 _Example of a generated document summary_
 
 - Create comprehensive summaries of your documents
@@ -123,7 +123,7 @@ _Example of a generated document summary_
 
 ### Interactive Chat
 
-![Chat Interface](image.png)
+![Chat Interface](assets/chat.png)
 _Interactive chat interface for document queries_
 
 - Ask questions about your document's content
